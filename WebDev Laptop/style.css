@@ -1,0 +1,62 @@
+body {
+  background-color: #FFEFD5;
+}
+
+.Text {
+  font-size: 25px;
+  font-family: Helvetica;
+}
+
+.fam {
+  border-radius: 300px;
+  width: 600px;
+}
+
+.dogs {
+  width: 400px;
+}
+
+.personal {
+  background-color: #DEB887;
+  font-family: Helvetica;
+  border: solid lightGrey;
+  font-size: 20px;
+}
+
+.anka {
+  font-size: 30px;
+}
+
+.lebenslauf {
+  background-color: #DEB887;
+  border: solid lightGrey;
+}
+
+
+.tableskill {
+  border: solid lightGrey;
+  background-color: #DEB887;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+
+h3 {
+  text-decoration: underline;
+}
+
+.userform {
+  border: solid darkGrey;
+  width: 300px;
+  background-color: #DEB887;
+  font-size: 20px;
+}
+
+a {
+  color: darkBlue;
+}
+
+.span1 {
+  font-size: 15px;
+  color: #800080;
+}
